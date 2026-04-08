@@ -1,0 +1,6 @@
+playwright>=1.42.0
+pandas>=2.2.0
+pyarrow>=15.0.0
+streamlit>=1.44.0
+aiofiles>=23.2.1
+pytest>=8.0.0

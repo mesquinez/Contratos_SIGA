@@ -1,0 +1,27 @@
+# Ambientes virtuais
+.venv/
+env/
+venv/
+
+# Arquivos compilados Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Configurações e Senhas locais
+configs/
+state/
+.env
+
+# Dados e Logs (podem conter planilhas, informações sigilosas e rastros)
+data/
+logs/
+*.log
+*.parquet
+*.csv
+*.xlsx
+
+# Arquivos do S.O. e IDE
+.vscode/
+.idea/
+.DS_Store
